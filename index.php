@@ -64,8 +64,8 @@ $conn->close(); ?>
         <div class="cover-container">
 
             <div class="inner cover">
-                <h1 class="cover-heading">Welcome to the DevOps Demo Application v2.</h1>
-                <p class="lead"><i>This app is used for demonstrating and testing various DevOps, CI, and CD concepts.</i></p>
+                <h1 class="cover-heading">MegaProject</h1>
+                <p class="lead"><i>Deze app is gruwelijk</i></p>
                 <h3>Connection to MySQL DB:
                     <?php
                         if ($dbSuccess) {echo '<span class="label label-success">Success';}
