@@ -65,7 +65,7 @@ $conn->close(); ?>
 
             <div class="inner cover">
                 <h1 class="cover-heading">MegaProject</h1>
-                <p class="lead"><i>Deze app is gruwelijk!!</i></p>
+                <p class="lead"><i>Deze app is gruwelijk</i></p>
                 <h3>Connection to MySQL DB:
                     <?php
                         if ($dbSuccess) {echo '<span class="label label-success">Success';}
@@ -83,7 +83,7 @@ $conn->close(); ?>
 
             <div class="mastfoot">
                 <div class="inner">
-                    <p>DevOps Demo application provided by the <a href="https://www.devopslibrary.com/">DevOps Library</a>.</p>
+                    <p>DevOps applicatie door <a href="https://confluence.belastingdienst.nl/display/COEDX/Werkzaamheden+Operationeel+Beheer/">Operationeel Beheer</a>.</p>
                 </div>
             </div>
         </div>
