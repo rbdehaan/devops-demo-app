@@ -65,7 +65,7 @@ $conn->close(); ?>
 
             <div class="inner cover">
                 <h1 class="cover-heading">MegaProject</h1>
-                <p class="lead"><i>Deze app is gruwelijk!</i></p>
+                <p class="lead"><i>Deze app is gruwelijk!!</i></p>
                 <h3>Connection to MySQL DB:
                     <?php
                         if ($dbSuccess) {echo '<span class="label label-success">Success';}
